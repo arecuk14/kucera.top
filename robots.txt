@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kucera.top/sitemap.xml
